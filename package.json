@@ -10,9 +10,6 @@
     "presetup": "npm install",
     "setup": "npm start config && npm start setup.script"
   },
-  "engines": {
-    "node": ">=8.0.0"
-  },
   "keywords": [
     "NodeJS",
     "TypeScript",
